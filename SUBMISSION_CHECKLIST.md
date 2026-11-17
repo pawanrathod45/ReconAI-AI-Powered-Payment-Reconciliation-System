@@ -49,12 +49,13 @@ python -m pytest tests/ -v
 
 ---
 
-## Deployment URLs
+## Repository & Deployment URLs
 
 | Component | Platform | URL |
 |-----------|----------|-----|
-| Frontend  | Vercel   | *(to be deployed)* |
-| Backend   | Render   | *(to be deployed)* |
+| Repository | GitHub   | https://github.com/pawanrathod45/ReconAI-AI-Powered-Payment-Reconciliation-System |
+| Frontend  | Vercel   | *(deploy via Vercel)* |
+| Backend   | Render   | *(deploy via Render)* |
 
 ---
 
